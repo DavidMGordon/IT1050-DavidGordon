@@ -10,7 +10,7 @@ namespace Lab01
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World from David Gordon");
+            Console.Out.WriteLine("Hello World from David Gordon");
         }
     }
 }
